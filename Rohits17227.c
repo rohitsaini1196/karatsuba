@@ -1,14 +1,3 @@
-/*
-Assignment 2- ECS
-
-Name: Rohit Saini
-Roll no. 17227
-
-
-with help of: Keshav bihani 17123
-
-
-*/
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
@@ -158,3 +147,5 @@ void NumPrint(int *a, int d) //funnction to print the numbers
     for(i = d - 1; i > 0; i--) if(a[i] != 0) break;
     for(; i >= 0; i--) printf("%d", a[i]);
 }
+//Have Fun :) 
+// Contact me: if you have any problem sidsaini1196@gmail.com
