@@ -9,15 +9,6 @@ B: 9757530286603594664582342963198810930630352535413615256241340136
 Our program must output the following 128 digit number:
 31064657240682551391401291435398144167567639750649905625519442196152715900036240937706209178221640277395863167944384137758109008
 
-
-
-ECS202: Data Structures and Algorithms
-F
-Due Feb 15, 11:59 PM
-Assignment 2
-
-Pawan Kumar Aurora
-Jan 31 (Edited Feb 11)
 Implement the Karatsuba's algorithm for multiplying two large numbers. 
 For e.g., for the following input numbers A and B of 64 digits each:
 A: 3183659832789056157123231193065733348656398779138482079257996978
@@ -27,16 +18,6 @@ Your program must output the following 128 digit number:
 
 A write-up is enclosed. The write-up is also available at the link provided below.
 
-Instructions:
-1. You must implement using the C programming language.
-2. You must submit a .c file containing your code.
-3. The code must be well commented.
-4. You must also submit a text file explaining your implementation in detail.
-5. Your program must adhere to the following user interface:
-Enter the number of digits:4
-Enter the first 4-digit number:1234
-Enter the second 4-digit number:5678
-The product of the two numbers is:7006652
 
 Link of Algorithm
 https://courses.csail.mit.edu/6.006/spring11/exams/notes3-karatsuba
